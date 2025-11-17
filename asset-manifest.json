@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/InteractiveStreamGraph/static/css/main.f9a273b5.css",
+    "main.js": "/InteractiveStreamGraph/static/js/main.69379b2e.js",
+    "index.html": "/InteractiveStreamGraph/index.html",
+    "main.f9a273b5.css.map": "/InteractiveStreamGraph/static/css/main.f9a273b5.css.map",
+    "main.69379b2e.js.map": "/InteractiveStreamGraph/static/js/main.69379b2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9a273b5.css",
+    "static/js/main.69379b2e.js"
+  ]
+}
